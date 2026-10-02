@@ -12,7 +12,7 @@
 </div>
 
 
-A circuit that takes a 5-bit number $n$ and draws it as a Maya numeral (0 to 19) on a 4×7 LED matrix, built and simulated in Logisim-evolution. Made for the *Arquitectura de computadoras* course at Universidad Anáhuac México.
+A circuit that takes a 5-bit number $n$ and draws it as a Maya numeral (0 to 19) on a 4×7 LED matrix, built and simulated in Logisim-evolution.
 
 ## How It Works
 
